@@ -1,42 +1,20 @@
-\# 🚀 Projeto Exemplo com Git
+# 🚀 Projeto Exemplo com Git
 
+Bem-vindo ao repositório!  
+Este é um projeto de exemplo para demonstrar o uso básico do **Git** e do **GitHub**, aplicando boas práticas de versionamento e organização de código.
 
+---
 
-Bem-vindo ao repositório!
+## 🛠️ Tecnologias Usadas
 
+- **Git**
+- **GitHub**
+- **Markdown**
 
+---
 
-Este projeto tem como objetivo demonstrar o uso básico do \*\*Git\*\* e do \*\*GitHub\*\*, abordando conceitos fundamentais de versionamento de código e colaboração.
-
-
-
-\---
-
-
-
-\## 🛠️ Tecnologias Usadas
-
-
-
-\- \*\*Git\*\*
-
-\- \*\*GitHub\*\*
-
-\- \*\*Markdown\*\*
-
-
-
-\---
-
-
-
-\## 📁 Estrutura do Projeto
-
-
+## 📁 Estrutura do Projeto
 
 ```text
-
 git-devops-automation/
-
 └── README.md
-

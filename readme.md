@@ -2,7 +2,9 @@
 
 
 
-Bem-vindo ao repositório!  
+Bem-vindo ao repositório!
+
+
 
 Este projeto tem como objetivo demonstrar o uso básico do \*\*Git\*\* e do \*\*GitHub\*\*, abordando conceitos fundamentais de versionamento de código e colaboração.
 
@@ -16,11 +18,11 @@ Este projeto tem como objetivo demonstrar o uso básico do \*\*Git\*\* e do \*\*
 
 
 
-\- Git  
+\- \*\*Git\*\*
 
-\- GitHub  
+\- \*\*GitHub\*\*
 
-\- Markdown  
+\- \*\*Markdown\*\*
 
 
 
@@ -28,9 +30,13 @@ Este projeto tem como objetivo demonstrar o uso básico do \*\*Git\*\* e do \*\*
 
 
 
-\### 📁 Estrutura do Projeto
+\## 📁 Estrutura do Projeto
 
 
 
+```text
 
+git-devops-automation/
+
+└── README.md
 

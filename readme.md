@@ -14,6 +14,7 @@ Este é um projeto de exemplo para demonstrar o uso básico do **Git** e do **Gi
 ---
 
 ## 📁 Estrutura do Projeto
+### Adicionando Conteúdo Remotamente
 
 ```text
 git-devops-automation/
